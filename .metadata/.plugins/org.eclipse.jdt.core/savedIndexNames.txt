@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\Usuario\Desktop\Projeto idremember\.metadata\.plugins\org.eclipse.jdt.core
+3076478058.index
+1284074322.index
+3685683222.index
